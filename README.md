@@ -1,5 +1,5 @@
 # GPSNavigation
-GPS for Vietnamese people who using WIndows CE
+GPS for Vietnamese people who using Windows CE
 # Link tải file
 1.Medifire:https://www.mediafire.com/folder/g19l5e5j9wfbr/Navitel
 
